@@ -1,5 +1,7 @@
 # ks
-### Kolmogorov-Smirnov test in python
+### Kolmogorov-Smirnov test in Python
+
+#### Special thanks to Numerical Recipes in C
 
 In statistics, the [Kolmogorov–Smirnov test](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test) (K–S test or KS test) is a nonparametric test of the equality of continuous (or discontinuous, see Section 2.2), one-dimensional probability distributions that can be used to compare a sample with a reference probability distribution (one-sample K–S test), or to compare two samples (two-sample K–S test). It is named after Andrey Kolmogorov and Nikolai Smirnov.
 
